@@ -13,5 +13,3 @@ I am an Engineering PhD student <img src="https://media.giphy.com/media/WUlplcMp
 - :telescope: I’m studying PhD and contributing to Control Engineering Community.
 
 - :seedling: Exploring Advanced Engineering Mathematics (Specially PDE).
-
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
